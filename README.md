@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phyolization
 - 👀 I’m interested in physics
 - 🌱 I’m currently learning SDP
-- 💞️ I’m looking to collaborate on MDI-QKD
+- 💞️ I’m looking for collaboration on MDI-QKD
 - 📫 How to reach me phyolization@gmail.com
 
 <!---
