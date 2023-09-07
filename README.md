@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phyolization
-- 👀 I’m interested in physics
-- 🌱 I’m currently learning SDP
-- 💞️ I’m looking for collaboration on MDI-QKD
+- 👀 I’m interested in physics, especially quantum information sciences and technologies
+- 🌱 I’m currently learning theories about QKD, SDP, and other stuff
+- 💞️ I’m looking for collaboration on steering nonlocality certification
 - 📫 How to reach me phyolization@gmail.com
 
 <!---
